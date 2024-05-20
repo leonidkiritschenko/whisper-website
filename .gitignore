@@ -4,5 +4,6 @@
 __pycache__/
 src/audio.mp3
 venv/
+whisper-website-venv/
 data/
 
